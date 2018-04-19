@@ -1,37 +1,37 @@
-文件 / 目录    描述
-----------
-_config.yml
+## Welcome to GitHub Pages
 
-保存配置数据。很多配置选项都会直接从命令行中进行设置，但是如果你把那些配置写在这儿，你就不用非要去记住那些命令了。
+You can use the [editor on GitHub](https://github.com/xim9160/xim9160.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-_drafts
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-drafts 是未发布的文章。这些文件的格式中都没有 title.MARKUP 数据。学习如何使用 drafts.
+### Markdown
 
-_includes
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-你可以加载这些包含部分到你的布局或者文章中以方便重用。可以用这个标签  {% include file.ext %} 来把文件 _includes/file.ext 包含进来。
+```markdown
+Syntax highlighted code block
 
-_layouts
+# Header 1
+## Header 2
+### Header 3
 
-layouts 是包裹在文章外部的模板。布局可以在 YAML 头信息中根据不同文章进行选择。 这将在下一个部分进行介绍。标签 {{ content }} 可以将content插入页面中。
+- Bulleted
+- List
 
-_posts
+1. Numbered
+2. List
 
-这里放的就是你的文章了。文件格式很重要，必须要符合: YEAR-MONTH-DAY-title.MARKUP。 The permalinks 可以在文章中自己定制，但是数据和标记语言都是根据文件名来确定的。
+**Bold** and _Italic_ and `Code` text
 
-_data
+[Link](url) and ![Image](src)
+```
 
-Well-formatted site data should be placed here. The jekyll engine will autoload all yaml files (ends with .yml or .yaml) in this directory. If there's a file members.yml under the directory, then you can access contents of the file through site.data.members.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-_site
+### Jekyll Themes
 
-一旦 Jekyll 完成转换，就会将生成的页面放在这里（默认）。最好将这个目录放进你的 .gitignore 文件中。
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xim9160/xim9160.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-index.html and other HTML, Markdown, Textile files
+### Support or Contact
 
-如果这些文件中包含 YAML 头信息 部分，Jekyll 就会自动将它们进行转换。当然，其他的如 .html， .markdown，  .md，或者 .textile 等在你的站点根目录下或者不是以上提到的目录中的文件也会被转换。
-
-Other Files/Folders
-
-其他一些未被提及的目录和文件如  css 还有 images 文件夹， favicon.ico 等文件都将被完全拷贝到生成的 site 中。 这里有一些使用 Jekyll 的站点，如果你感兴趣就来看看吧。
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
