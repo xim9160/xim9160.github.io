@@ -12,7 +12,9 @@ tags: [Software, skill list, 10jqka,] # add tag
 - lua 主站，脚本及热更新
 - 主站 .a库 接入
 - 打包系统（自动编译系统）
-- 崩溃收集系统
+- 崩溃收集 和 解析
+- ~~卡顿收集 和 解析~~
+- ~~自动化测试~~
 - 组件化基础 跳转和路由
 - 组件化升级 cocapod 和 git submodel
 - jsPatch 热更新
@@ -26,4 +28,5 @@ tags: [Software, skill list, 10jqka,] # add tag
 - Injectionlll 效率工具
 - Wireshark 和 网络
 - git 和 版本管理原理
+- ~~push 和 push后台~~
 - 小知识点:如链式语法
