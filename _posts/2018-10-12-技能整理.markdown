@@ -1,0 +1,29 @@
+---
+layout: post
+title: 技能整理
+date: 2018-10-12 00:00:00 +0300
+description: 都在 公司 呆了3年了， 发现需要技能 都是 有需要的时候用一下， 用完 没多久就忘记了， 现在现在要整理一个文档， 方便后续自己回忆， 而不是再去看别人的文档. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+tags: [Software, skill list, 10jqka,] # add tag
+---
+
+## 直接上清单：
+
+- lua 主站，脚本及热更新
+- 主站 .a库 接入
+- 打包系统（自动编译系统）
+- 崩溃收集系统
+- 组件化基础 跳转和路由
+- 组件化升级 cocapod 和 git submodel
+- jsPatch 热更新
+- 大前端 RN 和 Vue 
+- runtime runLoop 高级
+- OC 源码分析
+- swift应用
+- python 和 人工智能
+- jenkins 工作流和效率工具
+- Alfred 效率工具
+- Injectionlll 效率工具
+- Wireshark 和 网络
+- git 和 版本管理原理
+- 小知识点:如链式语法
