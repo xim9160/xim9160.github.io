@@ -1,0 +1,18 @@
+---
+layout: post
+title: OC 错题集
+date: 2018-10-30 00:00:00 +0300
+description: 记录下平时 碰到的 一些比较特殊, 或者 一时没有转过弯的问题。
+img: software.jpg # Add image post (optional)
+tags: [OC, git, other] # add tag
+---
+
+## sourceTree 有段记录 提交后 本地还是存在， 无法reset
+[事情起因] 有个 同事的 macMini 系统比较旧, 大小写敏感, 修改文件后提交, 导致挺长一段时间 xcode 存在僵尸修改(提示有改动但是不能提交)
+[问题原因] macOS 大小写不敏感, 导致 文件中 (特别是图片) 名称中 @2X @2x 改动 macOS 无法识别, 不会去更新, 但是 .project 和 git 已经修改
+[解决方案] 
+> 1. 文件修改文件名, 增加前后缀
+> 2. 资源文件 移动到 sset 目录下
+> 3. 其他
+[不能解决的方案]
+> 1. 删除文件 后提交, 重新添加 名称和原来一致 后提交。 切换分支后 问题继续。
