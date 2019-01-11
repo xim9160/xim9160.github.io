@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019-01-11-讨论
+title: 记录一次争执
 date: 2019-01-11 23:00:00 +0300
 description: 今天和同事讨论的时候起了争执 # Add post description (optional)
 img: software.jpg # Add image post (optional)
