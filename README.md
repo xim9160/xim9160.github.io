@@ -1,37 +1,28 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# 2019年学习计划记录
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+# Learning Recording Timeline
 
-## Demo
+* [] [2019 二月学习计划 ](--./2019-02/2019-02-read-list.md--)
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-The main page would look like this:
+> Theme:积极向上的程序员      
+> Source Code Read Plan: Aspect      
+> Reference Book List:《码农翻身》《软技能》《iOS面试之道》    
+> 总结：
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
 
-The post page would look like this:
+* [] [2018 一月学习记录 ](--./2018-01/2018-01-read-list.md--)
 
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
 
-## Features
+> 总结：杂记
 
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
 
-## Installation:
 
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+# 感想
 
-## License
-
-GNU General Public License v3.0
-
-## Donate
-
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
-<p>Either way, your support is a way to thank me ❤️</p>
-<p align="center"><b>Thank you for your support!</b></p>
+前言:
+  二月份是一个活泼的月份, 不少大佬都有了想法. 这时候也想出去试试, 才发现 自己已经被安逸的生活打败. 看看自己的博客 中堆满了 各种负面情绪 而 项目 都是半途而废的. 整体来说 过去的几年 都是这样 拿不出手. 
+  还好周围有许多优秀的人, 他们给了我一些感动和引导, 让我下决心重新走出泥沼.
+  为了让今年不再虚度, 我决心和马老师学习, 月初指定大方向, 月末总结.
+  每周保持一片博客更新, 每个季度 完成一个主题.
+  希望我能坚持下去. ---- xim o'clock 2018.02.12
