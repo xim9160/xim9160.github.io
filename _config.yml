@@ -16,6 +16,8 @@ social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: xim9160 # add your Github handle
 social-linkedin: # add your Linkedin handle
+social-weibo: ximoclock
+social-xim: social-weibo
 social-email: 281016974@qq.com # add your Email address
 
 # Disqus

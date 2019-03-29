@@ -3,7 +3,7 @@ layout: post
 title: 新项目团队建设
 date: 2018-10-30 00:00:00 +0300
 description: 正好公司新起一个项目, 就从这个角度思考了下， 团队初期建设 和 项目起步 需要做哪些？
-img: software.jpg # Add image post (optional)
+img: jenn-kosar-340066-unsplash.jpg # Add image post (optional)
 tags: [team] # add tag
 ---
 

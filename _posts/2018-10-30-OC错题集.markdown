@@ -3,7 +3,7 @@ layout: post
 title: OC 错题集
 date: 2018-10-30 00:00:00 +0300
 description: 记录下平时 碰到的 一些比较特殊, 或者 一时没有转过弯的问题。
-img: software.jpg # Add image post (optional)
+img: i-rest.jpg # Add image post (optional)
 tags: [OC, git, other] # add tag
 ---
 

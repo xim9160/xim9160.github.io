@@ -3,7 +3,7 @@ layout: post
 title: 技能整理
 date: 2018-10-12 00:00:00 +0300
 description: 都在 公司 呆了3年了， 发现需要技能 都是 有需要的时候用一下， 用完 没多久就忘记了， 现在现在要整理一个文档， 方便后续自己回忆， 而不是再去看别人的文档. # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: mae-mu-1400633-unsplash.jpg # Add image post (optional)
 tags: [Software, skill list, 10jqka,] # add tag
 ---
 

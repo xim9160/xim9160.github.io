@@ -3,7 +3,7 @@ layout: post
 title: 读书笔记 effective-objc
 date: 2019-03-18 23:00:00 +0300
 description: 笔记 # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: mac.jpg # Add image post (optional)
 tags: [iOS] # add tag
 ---
 # 前言

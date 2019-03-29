@@ -3,7 +3,7 @@ layout: post
 title: iOS设计模式解析(一)
 date: 2018-10-14 00:00:00 +0300
 description: 今天 中午 午睡的时候做了一个梦， 随便记录下吧. # Add post description (optional)
-img: software.jpg # Add image post (optional)
+img: mac.jpg # Add image post (optional)
 tags: [iOS, 设计模式, 读书笔记] # add tag
 ---
 
