@@ -1,0 +1,33 @@
+---
+layout: post
+title: 锁🔒
+date: 2019-04-02 23:00:00 +0300
+description: 技能复习 # Add post description (optional)
+img: eiliv-sonas-aceron-1452235-unsplash.jpg # Add image post (optional)
+tags: [iOS] # add tag
+---
+
+## 什么是锁
+
+在多线程编程中, 为了避免 因为 多线程导致的数据错乱, 及数据安全问题,     
+采用了锁的机制, 确保同一时间只有一个线程可以访问同一数据    
+
+## 有哪些锁
+
+> 从功能上区分有以下3种锁:
+
+| 类型   |      介绍      | 
+|----------|:-------------:|
+| 自旋锁  |  实现原理就是死循环, a 获得 锁 后 b一直忙等 直到 a 解锁 |
+| 信号锁 |    gcd实现的一种同步方式, 通过信号量的有无决定线程是否阻塞   |
+| 互斥锁 | 基本原理都是让线程忙等或者睡眠 |
+
+## 如何用锁
+
+几张截图说明:
+![锁](https://upload-images.jianshu.io/upload_images/8838806-1b96c1edec915591.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)   
+![锁的分类](https://upload-images.jianshu.io/upload_images/8838806-5ee23ab39c4f360d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)    
+![锁的性能消耗](https://upload-images.jianshu.io/upload_images/8838806-1cc056e9dfc87aab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600/format/webp)    
+## 相关资料
+https://mp.weixin.qq.com/s/qkRZuizHYUn4MGxEofhp6g
+https://www.jianshu.com/p/eb7ba2dd1234
