@@ -8,9 +8,9 @@ tags: [plan] # add tag
 ---
 
 ## 这周做了啥? 
-> 复习了八锁
-> jekyll出了问题, 重新安装了下
-> 复习了下 runtime, runloop, 和autoreleasePool 相关的知识 
+> 复习了八锁    
+> jekyll出了问题, 重新安装了下  
+> 复习了下 runtime, runloop, 和autoreleasePool 相关的知识   
 
 ## 学习
 > 学习还是不够, 和 BB 和 AW 相比差距还是非常大, 要继续努力
