@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 锁🔒
-date: 2019-04-02 23:00:00 +0300
+date: 2019-04-01 23:00:00 +0300
 description: 技能复习 # Add post description (optional)
 img: eiliv-sonas-aceron-1452235-unsplash.jpg # Add image post (optional)
 tags: [iOS] # add tag
@@ -24,7 +24,7 @@ tags: [iOS] # add tag
 
 ## 如何用锁
 
-几张截图说明:
+几张截图:
 ![锁](https://upload-images.jianshu.io/upload_images/8838806-1b96c1edec915591.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)   
 ![锁的分类](https://upload-images.jianshu.io/upload_images/8838806-5ee23ab39c4f360d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)    
 ![锁的性能消耗](https://upload-images.jianshu.io/upload_images/8838806-1cc056e9dfc87aab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/600/format/webp)    
