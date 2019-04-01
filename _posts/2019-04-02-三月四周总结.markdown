@@ -1,0 +1,19 @@
+---
+layout: post
+title: 三月第四周总结
+date: 2019-04-02 23:00:00 +0300
+description: 总结 # Add post description (optional)
+img: eiliv-sonas-aceron-1452235-unsplash.jpg # Add image post (optional)
+tags: [plan] # add tag
+---
+
+## 这周做了啥? 
+> 复习了八锁
+> jekyll出了问题, 重新安装了下
+> 复习了下 runtime, runloop, 和autoreleasePool 相关的知识 
+
+## 学习
+> 学习还是不够, 和 BB 和 AW 相比差距还是非常大, 要继续努力
+
+## 学习2
+> PMST 就坐在我对面, 看他这么努力 我也要向他学习
