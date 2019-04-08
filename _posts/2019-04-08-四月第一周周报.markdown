@@ -1,0 +1,18 @@
+---
+layout: post
+title: 四月第一周周报
+date: 2019-04-08 23:00:00 +0300
+description: # Add post description (optional)
+img: eiliv-sonas-aceron-1452235-unsplash.jpg # Add image post (optional)
+tags: [plan] # add tag
+---
+
+## 背景介绍
+
+>   这周主要是忙公司的事情, 没有额外的产出  
+
+## 其他
+>   清明节睡了三天,     
+
+## 学习
+> 抛弃 python 学习 go, 就因为 go 的介绍中, 推荐游戏后台搭建, 这个算是本周的计划吧, 完成 go 的学习   
