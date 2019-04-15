@@ -1,0 +1,18 @@
+---
+layout: post
+title: 四月第二周周报
+date: 2019-04-15 23:00:00 +0300
+description: # Add post description (optional)
+img: git_table.jpg # Add image post (optional)
+tags: [plan] # add tag
+---
+
+## 背景介绍
+
+>   上周 公司事情比较多, 各种大小事故会.    
+
+## 其他
+>   周末没有学习,     
+
+## 学习
+>   上周继续学习 go, 另外重新明确了自己的短期目标, 6月前 学会 go, 复习 swift, 以这个为基础进行技术栈的延伸, 加油. 
