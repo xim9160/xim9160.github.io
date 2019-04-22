@@ -1,0 +1,22 @@
+---
+layout: post
+title: autorelease
+date: 2019-04-15 23:00:00 +0300
+description: # Add post description (optional)
+img: git_table.jpg # Add image post (optional)
+tags: [iOS, autorelease] # add tag
+---
+## 本篇未完成
+## 问题原文地址:
+https://www.jianshu.com/p/259904af7f3b
+## 背景介绍
+
+>   同事问了个问题, 回去写了个 demo 验证了下.
+
+## 验证内容
+>   _objc_rootRetainCount 输出的计数的规律
+>   __weak 是否会引起引用技术的增加
+>   NSArray 和 NSMutableArray 为何计数增加规则不一致, 内部有何玄机
+
+## 验证结果
+待续

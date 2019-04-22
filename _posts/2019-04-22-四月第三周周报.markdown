@@ -1,0 +1,45 @@
+---
+layout: post
+title: 四月第三周周报
+date: 2019-04-22 23:00:00 +0300
+description: # Add post description (optional)
+img: git_table.jpg # Add image post (optional)
+tags: [plan] # add tag
+---
+
+## 背景介绍
+
+>   好吧， 又是一周没有做啥的一周
+
+## 学习
+>   复习了下 iOS 基础相关的知识， 重点复习了 锁 和 多线程:
+	案例:如何使用gcd实现 nsoperation 的 pause, cancel
+	1. gcd Dispatch Source 可以作为事件的注册回调, (event handlerblock)
+	2. dispatch_source_get_data dispatch_source_merge_data 可以控制事件的 合并处理(信号锁, 并控制并发数)
+	3. Dispatch Semaphore 信号量控制流程
+	4. 假暂停 dispatch_suspend(source.queue)//直接挂起 Source 所在的 queue, 回调不会执行, 但是实际上 queue 中的事件会被调用, 后续继续调用dispatch_source_merge_data 进度一次会被执行完
+	5. 真暂停 在 假暂停的基础 增加一个 flag, pause(dispatch_suspend(source.queue)) 后,flag 挂起, 防止 queue 继续执行,  确保 继续时, 进度从暂停位置开始
+	
+## 其他
+> 都可以算是每周一游戏了, 本周游戏是 <<stone hearth>>(中文:石炉)
+> 游戏目前是 release 1.1 版本, 本人最爱的 slg 类型
+> 烧了我 20+ 小时, 不得不说是个挺让人入迷的游戏.
+> 游戏:mc类型的世界创造方式 + slg 类型控制方式 
+优点: 
+1. 这个游戏里面的创建方式更加友好, 也更加容易创建出不错的建筑		
+2. 沙盒类创意 + slg 比起单人生存 格局更大一些		
+3. 游戏 素材制作较为简单, 但是实际上花样繁多, 很能烧时间		
+
+缺点:
+1. 游戏任务目标不明确:说是生存游戏, 难度太低;如果是建筑游戏, 因为ai比较笨, 可能一个不小心就团灭了;说是slg对抗性又太差, 节奏太慢		
+2. 新手引导不够友好, 游戏开始一段时间 就不知道如何进行下去了, 关键道具和素材没有和普通道具进行区分		
+3. 方块散落, 导致了人物ai不受控制的问题, 导致指令不容易下下达		
+4. 后期物品和方块较多, 导致性能问题, 建议从 减少方块数量(例如自动生成方块堆) 和 去除离屏渲染		
+5. 界面问题, 现有任务队列交互较差, 并且修改任务序列比较困难, 建议 参考 ktv点歌器		
+6. 作为一个 slg重复, 且无用的素材太多了, 建议整理, 并给一部分增加功能 (例如:家具增加交互, 食物增加临时buff...)		
+7. 任务节奏太慢, 后续一个任务 等待任务触发要非常久		
+
+简而言之, 这游戏潜力很大, 但是目前还只是一个早期版本, 要素还是偏少了一点, 
+
+		
+	
