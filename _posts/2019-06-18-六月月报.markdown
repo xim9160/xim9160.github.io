@@ -3,7 +3,7 @@ layout: post
 title: 六月月报
 date: 2019-06-18 23:00:00 +0300
 description: # Add post description (optional)
-img: git_table.jpg # Add image post (optional)
+img: dinner-egg-flatlay-54455.jpg # Add image post (optional)
 tags: [plan] # add tag
 ---
 
